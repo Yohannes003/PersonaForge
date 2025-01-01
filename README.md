@@ -35,6 +35,10 @@ pip install requests beautifulsoup4
 
 ## Usage
 1. Clone or download the repository containing the `PersonaForge` script.
+   ```bash  
+   git clone https://github.com/Yohannes003/PersonaForge.git  
+   cd PersonaForge 
+   ```  
 2. Ensure the required libraries are installed.
 3. Run the script using Python:
     ```bash
